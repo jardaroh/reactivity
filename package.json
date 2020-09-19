@@ -1,0 +1,14 @@
+{
+  "name": "reactivity",
+  "version": "0.1.0",
+  "description": "basic reactivity module for use in node or browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "n00t",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
